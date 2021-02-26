@@ -31,4 +31,4 @@ to build Angular components, services, pipes, directives and more.
 2. something 
 3. some'
 
-4. Triggerign webhook
+4. Triggering webhook
