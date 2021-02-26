@@ -28,4 +28,5 @@ to build Angular components, services, pipes, directives and more.
 1. Run `ng serve -o`
 
 
-2. something random
+2. something 
+3. something random
