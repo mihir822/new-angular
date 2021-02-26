@@ -33,4 +33,4 @@ to build Angular components, services, pipes, directives and more.
 
 4. Triggering webhook
 
-5. Still working on sonarQube
+5. Still working on sonarQube Work plss
